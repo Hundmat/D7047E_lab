@@ -175,3 +175,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+lab 0/Fredrik/.DS_Store
+lab 0/Fredrik/runs.zip
