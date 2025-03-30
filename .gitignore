@@ -178,3 +178,4 @@ cython_debug/
 .pypirc
 lab 0/Fredrik/.DS_Store
 
+.DS_Store
